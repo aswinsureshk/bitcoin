@@ -1,7 +1,5 @@
-# Blockchain
+# Bitcoin
 
-Members - Aswin Suresh Krishnan (UFID : 1890-1173)
-	  Akshay Sehgal (UFID : 1416-7988)
 
 How to run
 ----------
