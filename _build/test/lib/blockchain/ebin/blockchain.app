@@ -1,0 +1,12 @@
+{application,blockchain,
+             [{applications,[kernel,stdlib,elixir,logger,rsa_ex]},
+              {description,"blockchain"},
+              {modules,['Elixir.Block','Elixir.BlockChainApp',
+                        'Elixir.Blockchain','Elixir.DigitalSignature',
+                        'Elixir.HashGenerator','Elixir.Initializer',
+                        'Elixir.Node','Elixir.NodeCoordinator',
+                        'Elixir.NodeSupervisor','Elixir.ProcessRegistry',
+                        'Elixir.SysConfigs','Elixir.Transaction']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {mod,{'Elixir.BlockChainApp',[]}}]}.
