@@ -26,8 +26,8 @@ Program overview [for brief understanding]
 7 miners that mine continuously.
 Program runs indefinitely.
 
-Test Description [Also explained in report]
--------------------------------------------
+Test Description 
+-----------------
 
 0> Pre Test SetUp : 
 
